@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+I accepted the position as a postdoctoral research in the <a href="https://www.cincinnatichildrens.org/research/divisions/r/radiology/labs/he">Imaging Research Center</a> at the <a href="https://www.cincinnatichildrens.org/">Cincinnati Childrens Hospital Medical Center</a>.
