@@ -398,16 +398,16 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-i-accepted-the-position-as-a-postdoctoral-research-in-the-imaging-research-center-at-the-cincinnati-childrens-hospital-medical-center",
-          title: 'I accepted the position as a postdoctoral research in the Imaging Research Center...',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
+            },},{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          description: "",
+          section: "News",},{id: "news-i-accepted-the-position-of-postdoctoral-research-fellow-in-the-imaging-research-center-at-cincinnati-children-s-hospital-medical-center",
+          title: 'I accepted the position of postdoctoral research fellow in the Imaging Research Center...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
