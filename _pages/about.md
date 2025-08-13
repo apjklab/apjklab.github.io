@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hello! I am Ankita (आनकिता). I am a postdoctoral researcher at Cincinnati Children’s Hospital developing machine learning methods that make neuroimaging more precise and clinically useful. I received my PhD in Computer Science from the University of Georgia, advised by Dr. Yi Hong, where my research centered o building deep learning-based solutions on diffeomorphic registration for clinically actionable neuroimaging. Before that, I also received my Master's degree in Artificial Intelligence also from the University of Georgia, under the supervision of Dr. Shannon Quinn. 
+Hello! I am Ankita. I am a postdoctoral researcher at Cincinnati Children’s Hospital developing machine learning methods that make neuroimaging more precise and clinically useful. I received my PhD in Computer Science from the University of Georgia, advised by Dr. Yi Hong, where my research centered o building deep learning-based solutions on diffeomorphic registration for clinically actionable neuroimaging. Before that, I also received my Master's degree in Artificial Intelligence also from the University of Georgia, under the supervision of Dr. Shannon Quinn. 
 
 I grew up in Pune, my hometown, before moving to the U.S. in December 2014 for college and work. 
 
