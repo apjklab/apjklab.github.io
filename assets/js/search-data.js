@@ -440,8 +440,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-i-accepted-the-position-as-a-postdoctoral-research-in-the-imaging-research-center-at-the-cincinnati-childrens-hospital-medical-center",
+          title: 'I accepted the position as a postdoctoral research in the Imaging Research Center...',
           description: "",
           section: "News",},{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
