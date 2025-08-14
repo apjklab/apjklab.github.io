@@ -6,4 +6,3 @@ related_posts: false
 ---
 
 I accepted the position of postdoctoral research fellow in the <a href="https://www.cincinnatichildrens.org/research/divisions/r/radiology/labs/he">Imaging Research Center</a> at <a href="https://www.cincinnatichildrens.org/">Cincinnati Children’s Hospital Medical Center</a>.:tada:
-
