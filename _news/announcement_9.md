@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our work titled “R2Net: Efficient and flexible diffeomorphic image registration using Lipschitz continuous residual networks” was accepted for publication in Medical Image Analysis :sparkles:
+Our work titled “R2Net: Efficient and flexible diffeomorphic image registration using Lipschitz continuous residual networks” was accepted for publication in Medical Image Analysis.

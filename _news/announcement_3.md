@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper titled “Diffeomorphic Image Registration using Lipschitz Continuous Residual Networks” was accepted by MIDL 2022 :tada:
+Our paper titled “Diffeomorphic Image Registration using Lipschitz Continuous Residual Networks” was accepted by MIDL 2022.

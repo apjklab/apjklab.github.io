@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper titled “Efficient Diffeomorphic Image Registration Using Multi-Scale Dual-Phased Learning” was accepted by ISBI 2022 :tada:.
+Our paper titled “Efficient Diffeomorphic Image Registration Using Multi-Scale Dual-Phased Learning” was accepted by ISBI 2022.

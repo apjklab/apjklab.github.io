@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-We are invited to submit our work on R2Net to a Special Issue in Medical Image Analysis :sparkles:
+We are invited to submit our work on R2Net to a Special Issue in Medical Image Analysis.

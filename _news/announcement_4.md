@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our work on DDRNet was presented at ISBI 2022 :sparkles:
+Our work on DDRNet was presented at ISBI 2022.

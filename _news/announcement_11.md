@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper “A systematic review of automated methods to perform white matter tract segmentation” is accepted for publication in Frontiers in Neuroscience. :sparkles:
+Our paper “A systematic review of automated methods to perform white matter tract segmentation” is accepted for publication in Frontiers in Neuroscience.

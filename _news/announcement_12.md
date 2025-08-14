@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our work titled “Enhancing zero-shot classification in chest x-rays via cross-modal representation and attention alignment” was presented at the Multimodal Image Exploitation and Learning conference. :sparkles:
+Our work titled “Enhancing zero-shot classification in chest x-rays via cross-modal representation and attention alignment” was presented at the Multimodal Image Exploitation and Learning conference.

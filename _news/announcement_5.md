@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our work on R2Net was presented at MIDL 2022 :sparkles:
+Our work on R2Net was presented at MIDL 2022.
