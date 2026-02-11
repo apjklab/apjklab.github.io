@@ -9,8 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Room 500, Bldg S</p>
-    <p>Imaging Research Center, CCHMC</p>
+    <p>Bldg T11, CCHMC</p>
     <p>Cincinnati, OH 45229</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
